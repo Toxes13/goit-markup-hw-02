@@ -20,7 +20,7 @@ body {
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1,17;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--IRIS, #4D5AE5);
@@ -30,7 +30,7 @@ body {
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1,17;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--NAVY-BLUE, #2E2F42);
@@ -47,7 +47,7 @@ body {
 
 .menu-link:hover,
 .menu-link:focus {
-     color: #4D4bbf; 
+     color: #404bbf; 
 }
 /* ======== /HEADER STYLES ======== */
 
@@ -67,7 +67,7 @@ body {
 
 .contacts-link:hover,
 .contacts-link:focus{
-    color: #4D4bbf; 
+    color: #404bbf; 
 }
 /* ======== /CONTACTS STYLES ======== */
 
@@ -205,7 +205,7 @@ body {
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1,17;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--IRIS, #4D5AE5);
@@ -215,7 +215,7 @@ body {
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1,17;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--CLOUD, #F4F4FD);
